@@ -6,6 +6,12 @@
 		- end users can use either commands or GUI to interact with GIT
 	- Tracking and managing all the changes happen on the local machine
 	- The Folder that is tracked by GIT is called "REPO" OR "REPOSITORY"
+	- git init (turns a normal folder into a git repo(trackable))
+	- git add <filename> or git add . | Helps to instruct which file(s) to be tracked
+	- git commit | Helps to instruct git to take a snapshot of changes and stamp a commit id
+	- git status | to check on git tracking changes on files
+	- git log | to see the list of commits made in the folder (repo)
+
 
 2. GitHub or Bitbucket or GitLab or MS Azure DevOps 
 	- Online cloud platforms to hold Git repo
