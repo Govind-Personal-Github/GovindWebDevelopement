@@ -1,0 +1,16 @@
+1. Git
+	- Like a personal assistant
+	- Helps to track the changes and maintains history of changes 
+	- is a software that needs to be installed on the machine		
+		- to check if git is installed use git --version
+		- end users can use either commands or GUI to interact with GIT
+	- Tracking and managing all the changes happen on the local machine
+	- The Folder that is tracked by GIT is called "REPO" OR "REPOSITORY"
+
+2. GitHub or Bitbucket or GitLab or MS Azure DevOps 
+	- Online cloud platforms to hold Git repo
+	- Runs on the cloud and can be accessed thru browser
+	- Pre-requisites
+		- Git Hub Account (Free or Paid)
+		- With Free account you are entitled to use any number of public repos and any number of private repos. However, private repos cannot be shared 
+		- With Paid account you are entitled to use any number of public repos and any number of private repos
